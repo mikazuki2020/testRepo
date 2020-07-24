@@ -16,6 +16,7 @@ public class App {
             l = l + 2;
             System.out.println(l);
             System.out.println("hogehoge");
+            System.out.println("hogehoge");
         }
     }
 }

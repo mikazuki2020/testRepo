@@ -18,5 +18,8 @@ public class App {
             System.out.println("hogehoge");
             System.out.println("hogehoge");
         }
+
+        String f = "hogehoge";
+
     }
 }

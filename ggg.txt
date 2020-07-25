@@ -1,3 +1,4 @@
 test test test
 This is test text.
 これはリンゴです.issue2より
+これはみかんです.issue1より
